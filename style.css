@@ -10,11 +10,11 @@ html,body{
   height: 100%;
   width: 100%;
   place-items: center;
-  background: linear-gradient(375deg, #1cc7d0, #2ede98);
+  background: linear-gradient(375deg, #3ce7f0, #26d4b7);
 }
 ::selection{
   color: #fff;
-  background: #1cc7d0;
+  background: #13d6b2;
 }
 .wrapper{
   height: 400px;
@@ -60,7 +60,7 @@ html,body{
   width: 150px;
   padding: 5px;
   border-radius: 50%;
-  background: linear-gradient(375deg, #1cc7d0, #2ede98);
+  background: linear-gradient(375deg, #13d6b2, #29e6c3);
 }
 .wrapper .back-face .info{
   text-align: center;
