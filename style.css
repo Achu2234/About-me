@@ -43,7 +43,7 @@ html,body{
   height: 100%;
   width: 100%;
   object-fit: cover;
-  border-radius: 10px;
+  border-radius: 24px;
 }
 .wrapper .back-face{
   display: flex;
@@ -56,9 +56,9 @@ html,body{
   transform: rotateY(0deg);
 }
 .wrapper .back-face img{
-  height: 250px;
-  width: 250px;
-  padding: 5px;
+  height: 360px;
+  width: 360px;
+  padding: 6px;
   border-radius: 50%;
   background: linear-gradient(375deg, #13d6b2, #29e6c3);
 }
@@ -66,7 +66,7 @@ html,body{
   text-align: center;
 }
 .back-face .info .title{
-  font-size: 50px;
+  font-size: 70px;
   font-weight: 520;
 }
 .back-face ul{
