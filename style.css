@@ -27,9 +27,9 @@ html,body{
   position: absolute;
   height: 100%;
   width: 100%;
-  padding: 10px;
+  padding: 5px;
   background: #fff;
-  border-radius: 20px;
+  border-radius: 10px;
   transform: translateY(0deg);
   transform-style: preserve-3d;
   backface-visibility: hidden;
@@ -43,7 +43,7 @@ html,body{
   height: 100%;
   width: 100%;
   object-fit: cover;
-  border-radius: 24px;
+  border-radius: 10px;
 }
 .wrapper .back-face{
   display: flex;
@@ -56,9 +56,9 @@ html,body{
   transform: rotateY(0deg);
 }
 .wrapper .back-face img{
-  height: 360px;
-  width: 360px;
-  padding: 6px;
+  height: 150px;
+  width: 150px;
+  padding: 5px;
   border-radius: 50%;
   background: linear-gradient(375deg, #13d6b2, #29e6c3);
 }
@@ -66,16 +66,16 @@ html,body{
   text-align: center;
 }
 .back-face .info .title{
-  font-size: 70px;
-  font-weight: 520;
+  font-size: 30px;
+  font-weight: 500;
 }
 .back-face ul{
   display: flex;
 }
 .back-face ul a{
   display: block;
-  height: 50px;
-  width: 50px;
+  height: 40px;
+  width: 40px;
   color: #fff;
   text-align: center;
   margin: 0 5px;
