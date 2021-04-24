@@ -17,11 +17,11 @@ html,body{
   background: #13d6b2;
 }
 .wrapper{
-  height: 400px;
-  width: 320px;
+  height: 600px;
+  width: 520px;
   position: relative;
   transform-style: preserve-3d;
- perspective: 1000px;
+ perspective: 1200px;
 }
 .wrapper .card{
   position: absolute;
